@@ -4,7 +4,8 @@ This repository contains a Convolutional Neural Network (CNN) project designed t
 
 ## Project Overview
 - **Objective:** Classify potato leaves into three categories: Early Blight, Late Blight, and Healthy.
-- **Accuracy:** Reached 100% confidence on sample test data.
+- **Dataset:** [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantvillage-dataset) (Public domain).
+- **Accuracy:** Achieved ~98% overall accuracy on the test set, with high confidence levels on individual samples.
 - **Tech Stack:** Python, TensorFlow, Keras, Matplotlib, and NumPy.
 
 ## Key Features
