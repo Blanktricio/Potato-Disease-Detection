@@ -22,4 +22,4 @@ This repository contains a Convolutional Neural Network (CNN) project designed t
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Blanktricio/Potato-Disease-Detection.git](https://github.com/Blanktricio/Potato-Disease-Detection.git)
+   git clone https://github.com/Blanktricio/Potato-Disease-Detection.git
