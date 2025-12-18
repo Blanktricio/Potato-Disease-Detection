@@ -13,7 +13,11 @@ This repository contains a Convolutional Neural Network (CNN) project designed t
 - **CNN Architecture:** Optimized sequential model with Dropout layers to prevent overfitting.
 - **Visualization:** Integrated plotting tools to review training history and individual predictions.
 - **Saved Model:** Pre-trained model exported in the modern .keras format.
-
+  
+### Data Cleaning
+* **Manual Filtering**: A manual review of the dataset was performed to ensure data quality. 
+* **Outlier Removal**: Images that did not belong to the potato plant categories (non-potato images) were manually identified and removed from the training and validation sets.
+  
 ## Project Structure
 - `Potato_Disease_Detection.ipynb`: The complete development process from data loading to evaluation.
 - `modelos/`: Directory containing the trained model potato_model_v1.keras.
