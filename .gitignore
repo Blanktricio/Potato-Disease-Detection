@@ -1,0 +1,6 @@
+PlantVillage/
+archive.zip
+venv/
+*.keras
+__pycache__/
+.ipynb_checkpoints/
